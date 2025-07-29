@@ -1,0 +1,585 @@
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIjk_iSAA6c70BXjTKY_F8upLZTaXivtA3kENlOeq-HNJOhKPnyYwJ1Tma&s=10" group-title="News", Aaj Tak
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/playlist.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxvcHpAWSFBHO5lIfmcPqMl7dI0NppjKLbxvGzrXLc3yNpOLSkjqehP64&s=10" group-title="News", Zee News
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTVeUvGJllcyOdS3WIdqNqVc-saOyjYBPGCJpXnVkOsq28zicKs6D9VhM&s=10" group-title="News", ABP News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://abplive.vgcdn.net/ptnr-yupptv/title-ABP_News_yupp/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1e0dff06-24fb-4d91-9d57-fb6e918834e2/master.m3u8?hdnts=st%3D1753696491~exp%3D1753718091~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-ABP_News_yupp%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F1e0dff06-24fb-4d91-9d57-fb6e918834e2%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.64_yuppfast_2_channel_225_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.64_yuppfast_2_channel_225_-1~hmac%3Dfa7fd44c0f42cdf158b1268a22710600d29515c8f857ee481d6eb3300cf93962
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRid_EFJ0J6bFoOnN-9vk-Bc8taEVkltC1XXA&s" group-title="News", India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/6GoD_YAMluEkZWRu0YvGgkNeF5uymSLDtEcKg_5-TLwxJYXN0tjGDuA5kZUIHlHHXDUh37zCl_k=s900-c-k-c0x00ffffff-no-rj" group-title="News", Republic Bharat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://vg-republictvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-561573/main.m3u8?hdnts=st%3D1753696490~exp%3D1753718090~acl%3D%21%2A%2Fptnr-yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-561573%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.64_yuppfast_2_channel_20_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.64_yuppfast_2_channel_20_-1~hmac%3Ddc1e8e9f8cb093293f59ba60bc747882d763de046bfd9938d42d73c7d626f02e
+
+
+
+
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/iqfloc.png" group-title="News", NDTV India
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=d78c01625c3f4ed98912609799298544:b91bb882f9624872ada6125006fe5c73
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtvindia2/default/manifest.mpd
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSID3G3Z0JxlAydev1hkikWY5o0Alkx8qq3RAOnDsGbwlmkUwguxYOY5jw&s=10" group-title="News", Times Now
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-1U84iXlFjOR58Ij8IQI9YypFtrXHkJEwPcaHj-Quyf2yhf9ZRvdmwO4&s=10" group-title="News", CNN-News18
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToT01LPIfKJw5BN9pGPHe4H1tyd-okT1pEX7efWxFG0PvHbQCzit8uihTb&s=10" group-title="News", NDTV 24x7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-252389/main.m3u8?hdnts=st%3D1753696483~exp%3D1753718083~acl%3D%21%2A%2Fptnr-yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-252389%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.64_yuppfast_2_channel_1_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.64_yuppfast_2_channel_1_-1~hmac%3Dd00b06f447170f7f66120246197b71108427108cc34219039e5a8ed4e7509b13
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx8dtHMzltkKPRAnlx4UfZfPhlSb72wBeSRA&s" group-title="News", ABP Ananda
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://abplive.vgcdn.net/ptnr-yupptv/title-Ananda/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ed99a686-d5e1-42d8-ba3c-719c604586c8/master.m3u8?hdnts=st%3D1753696512~exp%3D1753718112~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Ananda%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fed99a686-d5e1-42d8-ba3c-719c604586c8%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.64_yuppfast_2_channel_226_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.64_yuppfast_2_channel_226_-1~hmac%3D8ce4f5e5fcc1f135f25cc9ce8d769fb587e5a778933f8a5131dd993ab0e128c7
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4h4IRyT7bwDv66Jq95VO69rhM7hXzn931xzwhkLl2UujBN7ONi1jl-riX&s=10" group-title="News", TV9 Bharatvarsh
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://vg-tv9yupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-234604/main.m3u8?hdnts=st%3D1753696490~exp%3D1753718090~acl%3D%21%2A%2Fptnr-yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-234604%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.64_yuppfast_2_channel_34_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.64_yuppfast_2_channel_34_-1~hmac%3D394e8314b5b5dff54a637b74df0f6f498051852474657579df32e7ed4444734d
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10616d7c4bee41f1825bd805c6295172:dc85f2112f63477fb39fc149493c49be
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png" group-title="News", Zee Hindustan
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/LKNgfzia.png" group-title="News", News Nation
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation/default/newsnation.m3u8
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bef87892e58c446d893b16a848703b70:51959fcbc8fe4091b570ba254bf749ae
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png" group-title="News", Zee Business
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK2EggxMZ72FOsGy8dMpn7rl903Rh2O8fwRFyV0hIvHBXfE_cHOWU9xEg&s=10" group-title="News", TV9 Telugu
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDKlrGjAjw2cU-p2AEZTrdA-9F6FAn1KUN6G6nc0HGjgQ3e2OVOHOwSOI&s=10" group-title="News", TV9 Marathi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://vg-tv9yupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-780326/main.m3u8?hdnts=st%3D1753696510~exp%3D1753718110~acl%3D%21%2A%2Fptnr-yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-780326%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.64_yuppfast_2_channel_11_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.64_yuppfast_2_channel_11_-1~hmac%3Db7de4204a48c99da390af0e95800185c1337d294569be1b2b3800c4f28d56ef1
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDclJHcv1pgmd7mnZVv7qvTbPQ40g0qMizkg&s" group-title="News", Republic Bangla
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/main.m3u8?hdnts=st%3D1751346104~exp%3D1751367704~acl%3D%21%2A%2Fptnr-yuppt%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-613605%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_24_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_24_-1~hmac%3D2f8fd1157595389081a6025b824d088f9ad46a0bdde54148a18787b434f06fde
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXomSauxZXwQ4OeW4w85ntFsJQyt-nFy0IlQ&s" group-title="News", News18 India
+https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg" group-title="News", News18 Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-7 tvg-id="116" tvg-chno="683" tvg-name="calcutta-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/calcutta-news.png" group-title="News", Calcutta News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://yuppftalive.akamaized.net/080823/calcuttanews/playlist.m3u8?hdnts=st%3D1751346107~exp%3D1751367707~acl%3D%21%2A%2F080823%2Fcalcuttanews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_116_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_116_-1~hmac%3D153deb9c9f041d18d92bc4484896f37af2ac96b88462a6ebab28f8ad77cb56db
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh3WBqt00NnPduIavuuCtcylTKxuNI8n_2yIhHF28wJN3bdR8eHdaRR6vR_Fb5hib58yEhvY4DHO3YGiHFlElI-qur4xYZClWC7QdoPA-mw7iaFiTcvsnWXYEsMdR_TcFuKpDZY8alg-alwhE000CDBZdK3uZpzi_mTHKEiQoq3prgjty8aaEqqlnig5I/s1600/1000022782.png" group-title="Entertainment",SET HD
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMEylPnpL48nA0sL-JLBAdDV3ee2NPZvbIFieU_ixstaM62zVZv6HNbEnKBFxMGSVaaLWCX0bF1lWWZwjmbCNnllOiC0dcZ6bFE62hGjrf-KRcTEbEkayH3IFgXbbJLLtLEDJb1AJAYQHN_UQq6j4UcEA8Jg9cQObj1wTUd15JKtmkcrO8EWAKLjhJ8qE/s1600/1000022813.png" group-title="Entertainment",Sony SAB HD
+https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBr4xdKVHRuj2hnIaYftJhG6OXnOFgiT5GxkI11F-Wm60fscsqOXoxzWDEhyphenhyphennuyEMktSjhJx7CwPPdPkMAb-tKMgzstMxPzgCyiV-mYxmw3F2wd1JvQg8sLgp54z1C_IpARDhFggwpAby5wdq37XK2xkAWLgfeB8Lcxmt-ok4_tGjeIvv3iBakkKlbfnI/s1600/1000022815.png" group-title="Entertainment",Sony Marathii
+https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1UIq_f1T4JI__ZwC1JpnguYRKnLe9XHG1TRrDSIdQG46ELi5URzd9qwOmzn0MRIFxahB1ua1kWgfmeF7MnBbMxk4uhsiQSkvXDfqv5MVYwAElXHyrinVSFFaxIRftLiO1dO3acAUhAN5kSXdfcTj34G089eh6D8GQh9b7AD9qnRRjswoWUlOc0PXkj7I/s1600/1000022809.png" group-title="Entertainment",Sony Pal
+https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZMyuvG4DVsVrLXZT2MoQ0daTB51XrPopi3QwffHz2ZabTFCGSO2utsVzmvuBYuTxGojAm3xtOny3K_Swcl0eVVTyeowitWiHgmkMGx_QYFDK7qrhB0PCNVx0lx2agOd0tyYuKskx0Zqfy7Sck4hjZ0JG0ApE6yiD5NRVE904PWcVqY6jBi5EbPy-eyDE/s1600/1000022810.png" group-title="Entertainment",Sony Aath
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://nagantv.com/upload/files/sonykal.png" group-title="Entertainment",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilaEClLsWZQNFFBOBOQ64bFv1HrGN_8X_1zwkf4lQwHe0tugLM-nE8hTnM1lUUAcvnuO5dTuSRZlvyf-t-bRMobTanhUwNgJGwvpYyZvdX-y9jFu9xU3aGvXzXjSO91PS3p0heHTh1Jno6e57be6R1ZewBCvq34U_OVwsI_d3jRWstf1dLlgK4EP_EMTc/s1600/1000022817.png" group-title="Movies",Sony Max HD
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3H6Jz7m-VDAyM8Hi3ZvXAgzvX1EutJBqigckObONaVOhTR_NnNstobUwFILx-stsF6SMEZhA31HuFG3X22DRZolR3GlBYPrfPv9SCgixx5wBU4TPwBDlWRKyBLknn_AJgvSLbSi2Et0QeSlph2kE4-g1tX3y4hiRcgv-WEcvuV20tgdHY3HEwAtmx2Hc/s1600/1000022816.png" group-title="Movies",Sony Max
+https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvjx1l-Y_-HMBgMbyLcHI5Q_TkhhOdlgpZ1gSTEcRm8XXh4oVr6_3BU-PhXY45nkz5DvRRh4nUEa4WQidBFgV9SL0DyEX6c0-0KABjlBxIwWWUBC5iWb5lCYsFbc-6U5EvFcTBwx6G2ZdC8NtzZ0rtjRnR6APxkj-R39_s0FFb91FpsBVZP1zMYF_FxFs/s1600/1000023635.png" group-title="Movies",Sony Max 1
+http://filex.me:8080/live/wbNER77tKU/i1YcYBsPNU/512328.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4sMjGJ6vbGzLRx5lZVxfQqBsaF0iskFoSSDFpSH-cS5JO6XBA1_nh0qgp_gegHN45Vn74Pc2_E5HBF4uFjbb-JRwmrrNU09lINDnh02Z6-oAtNNbrRIUq38hORPc_hZW45kiwWOlKRnJjHIYbJ1oZC_ddhxS9yvr9-RIQcCbHbhdNxzux9AFUbmg7rmw/s1600/1000022819.png" group-title="Movies",Sony Max 2
+https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxnPI4d2yY5Cg0krmadti8gLzyb5CQiQKNOLOBmoBpuRTorgcYx4mQL9tr3Nqn0DQyPXylg7hPXdt6EgL1AENyqs0YQsbjIqbcL4N8DDx0njEyJPXuwIuqP66IckS1bHrAC004dfC7NpMFqo6K3-_IZyWuCCQam0y0rlChHU5ksVr6FBGFPYK4irsammY/s1600/1000022820.png" group-title="Movies",Sony Wah
+https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD_8_YI0DrF0oBJr7LA_uf4UC6aZYGRU7Xles-89JzfBYAKur_02H_rTmyFkdNsHw4W4iNTR8hkg8du7I4ab_KYozWtUXZLBZM2TLaoPWy5K6dIyROJGANEAave8dj6JKjHGZD2HS8ao83rufMz-AzwnfH_d8UIv0CMKxPfz6qVKcAK-RyZhtPXG73HAs/s1600/1000022784.png" group-title="Movies",Sony Pix HD
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZWknkwhi0-BPk-yWW0i0TTwnHDNTmwI0WKyviuPCaiQLUgjUFVjf-9ISpzffaQjCtB_yoWYdMyaDGwvccwyW5-IM9Ryg0rXqxAkYETP1NC9T2xlURvZ0QV4e5DzyW6L-QYpEA0sJAHl_ap4_9wzI2PpwS9MvWXl_RJ6IJFsq1awcjvvFCCsvTXg5Hyh0/s1600/1000022822.png" group-title="Sports",Sony Ten 1 HD
+https://tataplay.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG4HtWJrxAVaqpDJY0cU2-1tZuJvamx5DRIsJkEEZ-m88kbNWDrD__XRBUgc8yQXnn6zAZhFphYXPU_fX2rlrx_0hQs7zgC1VVFLNugs4UXxVY4Dc2txncRe6hUSypYLrLuEMJHUlwuBjFU_CICZRDsphyphenhyphenKHoqZ2j5Ycj2R6YSVide202Supb5bDloPVk/s1600/1000022825.png" group-title="Sports",Sony Ten 2 HD
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilBZ0-_fW3Hp7qLYEYJeFEbprNetGKyl2lcLuo4PhCm-F7lrxJyHPMF3_bk28dkoQogKWARmfninL4GulMddVsd1hRRgIt0meLc4TfBRzHkTcTtS29KjIw-Bd1jSuboICr5u3H2B09UzJu1-aWrAIa3InJcO3ACLRRj_OWrZKrE2aFzdJodbE2lumvLvQ/s1600/1000022827.png" group-title="Sports",Sony Ten 3 HD
+https://tataplay.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwnse-lc4EZxDORQCoRs0NfT7VYxdbW3znvrw_wGb46_-4g30wGW4A2K0slilgsiv8vssagzZ4T6238PZE2tt3M77NX44QnAO1Uj8Ct0hn6gyJNT_-5FlAEOM9bfH3zrsJYdsroR8jqZFggocxHL57Nyk8-L2iVvUcmO6DCvdGfo5zH9hF1uDNOYP3lGw/s1600/1000022828.png" group-title="Sports",Sony Ten 4 HD
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjImX_9TTiY8arNWs9EXxcmkRkC9EN0fHgVBKtbEJFiv0-0xUXrYkFe2RaFs2MTxdyS5P11cBoF328kg2RFtP5KVyaWswyIG5AGSAxtq32v3p-plBi9vlHcsCCVY53o_kJpegBRzlCgW-hHg3-JSPVq-9wCh_gywcCiYUQhtXBZGIXKBgp5k7iK5H5QwZU/s1600/1000022830.png" group-title="Sports",Sony Ten 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmykXAGRbRx5C7hrwLDXqNXUl4BXNmIVL8kYocwnRUlpGzGAy2qGzZK5Y&s=10" group-title="Sports",Star Sports 1
+https://xfireflix.fun/wp-content/404.php?id=167575|User-Agent=Mozila
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrC7jI-CXGLhxrZEtgLHJySLVbCtRtvJn7NPoRmEG9Y48GzuwhpgGi06dY&s=10" group-title="Sports",Star Sports 2
+https://xfireflix.fun/wp-content/404.php?id=167576|User-Agent=Mozila
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Y3IiDgrmihYYbDazg0z7l-s5N9U3CZ_qhhHto4kAzmpRMxyTfDHigtwe&s=10" group-title="Sports",Star Sports 3
+https://xfireflix.fun/wp-content/404.php?id=167577|User-Agent=Mozila
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyKgvMQ04w9tyNwCQDKcj8NuWW0h8Syzn0EjQLix_JpPytFuBbyI7QWw&s=10" group-title="Sports",Star Sports Select 1
+https://xfireflix.fun/wp-content/404.php?id=167578|User-Agent=Mozila
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIduSDxZ9L7PjDsZdYOSVhHktzOdNrOFZ1jO4SUHSurpFl22OPiSdj-MA&s=10" group-title="Sports",Star Sports Select 2
+https://xfireflix.fun/wp-content/404.php?id=167579|User-Agent=Mozila
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW4FHLbqtzGWHh3LVumlV4yp3dgzNAPUnLdA&s" group-title="Sports",Star Sports 1 Hindi
+https://xfireflix.fun/wp-content/404.php?id=167573|User-Agent=Mozila
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Star_Sports_2_Hindi.svg/revision/latest/scale-to-width-down/491?cb=20250329053253" group-title="Sports",Star Sports 2 Hindi
+https://xfireflix.fun/wp-content/404.php?id=167576|User-Agent=Mozila
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCwn_URiXCx8gwhWhGdOr0nbYjObmZy6NNtmKnfA6FEsDZxREc7jDSmAs&s=10" group-title="Sports",Star Sports Tamil 1
+http://ptu.ridsys.in/riptv/live/stream20/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0hov0SIy6SbUIsoGSNxe11Ab8eQKei6SlUA&s" group-title="Sports", DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXo5iU4Vt05FyPIObDOhXO5BnY5ett20cMqg&s" group-title="Kids", Cartoon Network
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmy3hqtCDR15bVTYFs_r7d3vMvl54fWJl6w&s" group-title="Kids", Pogo
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzTJ6Aohgj0eMIEL5RfpBZU9I82yHcWznPxCPrQ0OqS6eFzubGztFKCEW&s=10" group-title="Kids", Nickelodeon
+https://fifabangladesh2-xyz-ekkj.spidy.online/VHOD/NEW/go.php?id=Nick_voot_MOB|user-agent=Mozila
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS61AyQH0gm5D0_5ukbh8hrlpIhuw1XIeeqMq8eqNodfJp9yAt-BTARdo&s=10" group-title="Kids", Hungama TV
+https://live.dinesh29.com.np/stream/livetv/hungamatv/master.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeloHCj7agtzYvQ6k3TRSAbYjON7pR6jcQVQKOhbDaesFy9CqVBfn2axA&s=10" group-title="Kids", Sony Yay
+https://fifabangladesh.site/API/SONYBD/play.php?id=2011746/SonyYaySD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTchw9mmVfI-jQDVSgChD2ONOivtkIqTAnnYVEU4xQSaiKtu2HF-X_oAVJ&s=10" group-title="Music", 9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ-G3S3xObkTBCUXiP9YfVuuCe5ta6XHtRkqSYj_7KMdAM6BByY15jh8qn&s=10" group-title="Music", 9X Jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWgCb1vF5DFU5uoYtWz5qExgEv_jVHTI6i9P2aQYa7kUXvDvkJq5iqAFY&s=10" group-title="Music", MTV India
+https://imranapk.site/TG@RANAPKX73/OPPLX/play.php?id=206054|User-Agent=Mozila
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThiqnCn-41fr-q8rxjNTmt4wuHWGyD1Gc9AxCsX4Pf13NVs2Fd7Z0xHko&s=10" group-title="Music", MTV Beats
+
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png" group-title="Music", B4U Music
+https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67343c27f3659eebe8f0fdb5
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS11bdiO7TOHiRN_tKn7EJ2n-wKC9qpNdDIh81tJfEFaX0wGoezc1yqrLc&s=10" group-title="Music", Mastiii
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Zing_logo.svg/1200px-Zing_logo.svg.png" group-title="Music", Zing
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS2XDT_1T9-PXZpyubsYQjq1jsw_8sOQVlIvyZZa_kxHhgdbKnziYA_ma8&s=10" group-title="Music", Zoom
+https://xfireflix.fun/wp-content/404.php?id=66190|User-Agent=Mozila
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVjEwrw2vE1JlH7JuUn3IU1hQr6TbPq7br257ZodHHDzTqaIrUEmP9xFNG&s=10&s" group-title="Music", ShowBox
+https://xfireflix.fun/wp-content/404.php?id=383529|User-Agent=Mozila
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0yj-dX7N8vzDkRu7YtUQB4d1tkCD-kOn2YOreP6Z_DQj_ZnEDoV2YNeA&s=10" group-title="Music", Music India
+https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67343c1ff3659eebe8f0fd3b
+
+
+
+*
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNgQenJv5h4YRlocNINZxQDLrOLnJvCG8XzA8BkKjec1OMmK9MpflixSTJ&s=10" group-title="Music", Sangeet Bangla
+https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67343c31f3659eebe8f0fe36
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe-D140sl5d50E3fmc_NIRH_GT7gP9E5CJy5JRJfKzXCjAJlsUpWWJu_p3&s=10" group-title="Music", Bangla Talkies
+
+
+
+
+
+
+*
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5PoYLuRBTRrIqg_Te-Lc-EjsCN3bZzBZpUrQyzVITKuzmNBfAwfPXTg&s=10" group-title="Music", 9X Tashan
+https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=62ecfcf709b74b9dea61e9ff
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4YRXf3ti-bSd3vTB1ojGP1seXTyBs3HFhuMBrpTbcwNwGdqWimcu9VWTt&s=10" group-title="Music", PTC Chakde
+https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=682d962038be0817d232328c
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMeERg4ss1nvKf7N0vzDJ3k9jEVbftl7SHQIrSj-4SIFHoeRPo9_sAOBh&s=10" group-title="Music", Josh Punjabi
+
+
+
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/P3xG6z6RrMibOeWufXs0_TUhBhA8_ilUYE6JAB3GF8jDtmI6sKnk8khh_YoKwyGkk6TIz3XI=s900-c-k-c0x00ffffff-no-rj" group-title="Music", TTV Punjabi
+
+
+
+
+*
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEFKJLS3taZDmHOk4i9jPiuuJhXIBOYQiXBugTP-RQ_cpHD4cbiXbmSVX5&s=10" group-title="Music", 9X Jhakaas
+https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67343c17f3659eebe8f0fccf
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sangeet_Marathi.jpg/960px-Sangeet_Marathi.jpg" group-title="Music", Sangeet Marathi
+https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=62ecf6ec09b74b9dea61e9ed
+
+
+
+
+*
+
+
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sangeet_Bhojpuri.jpg/250px-Sangeet_Bhojpuri.jpg" group-title="Music", Sangeet Bhojpuri
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPsGz44zFqR2Dfqosa_HMzlo1lvMBfUHpip_qwWOseFjXJevFFAXc2ClIE&s=10" group-title="Music", Oscar Movies Bhojpuri
+https://imranapk.site/TG@RANAPKX73/OPPLX/play.php?id=66185|User-Agent=Mozila
+
+
+
+
+*
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3fCe3agPdOZ9Zo1HQIdgXu4oFiCIfhBKCazj12RQmKUI31Y_4DWIcpDI&s=10" group-title="Music", Tarang Music
+https://xfireflix.fun/wp-content/404.php?id=381259|User-Agent=Mozila
+
+
+
+
+*
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Sun_Music_%28No_Background%29.png" group-title="Music", Sun Music
+https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMux9g315dmh1XCEBlzva9-ko8GDatJCBDsmkxg7tWgoMd22nJQVlToRmU&s=10" group-title="Music", Isaiaruvi
+https://xfireflix.fun/wp-content/404.php?id=381008|User-Agent=Mozila
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT10LXIFVsXt2TGWdVZTsav8i_FUMxztlKt367hOlRKFKcemNsB5oOD9vn5&s=10" group-title="Music", Raj Musix Tamil
+https://xfireflix.fun/wp-content/404.php?id=380988|User-Agent=Mozila
+
+
+
+
+
+*
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76230567f3c04513a7e5d1249ab65983:4ee6dc9a99d894dc41b0878d6ea22790
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Gemini_Music.png" group-title="Music", Gemini Music
+https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd
+
+
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-06-17/250617737001.jpg" group-title="Music", Raj Musix Telugu
+https://xfireflix.fun/wp-content/404.php?id=250853|User-Agent=Mozila
+
+
+
+
+
+*
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ac3472b0040459cab52035ead6fe1ae:ba9fe9dd1b8e5421e2f8c9d23bd86922
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROaTDF2rjMrDGyvPseiv7cZn-rlgv2Bl0xsTKMdigm09ztW18JmG0V6bk&s=10" group-title="Music", Udaya Music
+https://livestream.sunnxt.com/8034b7519d6a4ab8929aa4279fda1f29/UdayaMusicB_IN_index.mpd
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT10LXIFVsXt2TGWdVZTsav8i_FUMxztlKt367hOlRKFKcemNsB5oOD9vn5&s=10" group-title="Music", Raj Musix Kannada
+https://xfireflix.fun/wp-content/404.php?id=381199|User-Agent=Mozila
+
+
+
+
+*
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_key=25a1d2a4c3f848b1aed911ad691fe232:3c8b2cf8611c343e6a231b6a9c7c8b58
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwZ0ZE8933lHtRn3a6sewCxVJ8PvUheLg7_WR82pqJy9TLRVMun6uv9-Gh&s=10" group-title="Music", Surya Music
+https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkEFUQVRK2gsn1Smuyscjxw9AqUCuCWnMa_T5Ut_g8toePIAiAGcbiIUc&s=10" group-title="Music", Kappa TV
+https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67343c30f3659eebe8f0fe27
+
