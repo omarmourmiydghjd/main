@@ -1,0 +1,95 @@
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLq2s7DSocjLDDmXNL7_2s0o-L7D_Wko2lEzaVIjuB2SZINvDztBBd2fE&s=10" group-title="Entertainment", Star Jalsha
+http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
+#EXTINF:-2  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7L658JbM9cPfkoZyHqsZ6Xb8h10XbRYvX8i4zYXyMZBIRXsx0qMcuSsp&s=10" group-title="Entertainment", Zee Bangla HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
+
+#EXTINF:-3  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Colors_Bangla_2021.jpg/revision/latest?cb=20210831124610" group-title="Entertainment", Colors Bangla
+https://fifabangladesh2-xyz-ekkj.spidy.online/VHOD/NEW/go.php?id=Colors_Bangla_HD_voot_MOB|user-agent=Mozila
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01f7b9f7bf7e425f86d6dfd478390e3f:5fde68100a7856d055038236ffc7c84a
+#EXTINF:-4  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG6JmL9gfHGgrO8SypN8b2PYuxiO48ikHt7GvzyPGwjPr8bj49Dgll3o4&s=10" group-title="Entertainment", Sun Bangla
+https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
+
+
+
+#EXTINF:-5  tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="Entertainment", Aakash Aath
+https://tvsen6.aynaott.com/aakaashBangla/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-6  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKo8yWSKhEPSvQJtwsQRDeOD9_gXHlFe2-yusZme9MmjNuVTNQZhk_6tnw&s=10" group-title="Entertainment", Sony AATH
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+
+
+#EXTINF:-7  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Ruposhi_Bangla_old.jpeg/revision/latest?cb=20191218154246" group-title="Entertainment", Ruposhi Bangla
+https://fifabdm.xyz/TG@RANAPKX73/OPPLX/play.php?id=245932|User-Agent=Mozila
+
+
+#EXTINF:-8  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSgAr7xYAwX_Fc1CcrfzfFSDwRTbi8FD11fzaEfiA6DMkQ0AZ1dHsPWkM&s=10" group-title="Entertainment", Enterr10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://static.vidgyor.com/player/account/abp/img/ABP-Ananda.png" group-title="News", ABP Ananda
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
+
+
+#EXTINF:-2 tvg-id="7" tvg-chno="679" tvg-name="24-ghanta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_HGvKrhi0ZXDaG0lq-QwFsWFyOJqK4htWucWtOl1RomKT2LPZTn0aebE&s=10" group-title="News", 24 Ghanta
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24ghanta/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f386957b-dfda-4779-8dd8-f525e37d92ab/main.m3u8?hdnts=st%3D1751346105~exp%3D1751367705~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zee24ghanta%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Ff386957b-dfda-4779-8dd8-f525e37d92ab%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_7_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_7_-1~hmac%3D949b08000113ebe025bda19f236d19da7021bc393bf24004242693e6d77787f3
+
+
+
+#EXTINF:-3  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7g_gL-WZ3-gfQHowWfy_-0hiQjVHSqNV5ZtIKZCFl47ynLOeZc0rh5nY&s=10" group-title="News", Kolkata TV
+
+
+
+#EXTINF:-4 tvg-id="24" tvg-chno="678" tvg-name="republic-bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEKYpyBrDlD5KQWb5OWQvlm7rjZfLkKf2iIhLw1iLVyBFXfdJRRRSI3wE&s=10" group-title="News", Republic Bangla
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/main.m3u8?hdnts=st%3D1751346104~exp%3D1751367704~acl%3D%21%2A%2Fptnr-yuppt%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-613605%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_24_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_24_-1~hmac%3D2f8fd1157595389081a6025b824d088f9ad46a0bdde54148a18787b434f06fde
+
+
+
+#EXTINF:-5  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHnPCf1d_0HTqPD-7kRzcYCtP15DWr6rKGg&s" group-title="News", TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+
+
+#EXTINF:-7 tvg-id="116" tvg-chno="683" tvg-name="calcutta-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/calcutta-news.png" group-title="News", Calcutta News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://yuppftalive.akamaized.net/080823/calcuttanews/playlist.m3u8?hdnts=st%3D1751346107~exp%3D1751367707~acl%3D%21%2A%2F080823%2Fcalcuttanews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_116_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_116_-1~hmac%3D153deb9c9f041d18d92bc4484896f37af2ac96b88462a6ebab28f8ad77cb56db
+
+
+#EXTINF:-8  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/News_Time_new_logo.png" group-title="News", News Time Banglaa
+
+
+
+
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180623/qf/aazug0foc.webp" group-title=Movie", JALSHA MOVIES HD
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNgQenJv5h4YRlocNINZxQDLrOLnJvCG8XzA8BkKjec1OMmK9MpflixSTJ&s=10" group-title="Music", Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+
+#EXTINF:-2  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nBxQ9GXXSDJJeDePlySJbW9-_GIcxkZHhtkl0_uV-8xw=s900-c-k-c0x00ffffff-no-rj" group-title="Music", Dhoom Music
+https://fifabdm.xyz/TG@RANAPKX73/OPPLX/play.php?id=245921|User-Agent=Mozila
