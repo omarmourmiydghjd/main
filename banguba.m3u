@@ -144,7 +144,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLq2s7DSocjLDDmXNL7_2s0o-L7D_Wko2lEzaVIjuB2SZINvDztBBd2fE&s=10" group-title="Kolkata", Star Jalsha
-http://ktv.im:8080/live/120820243509/45092025457/83749.m3u8
+http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
