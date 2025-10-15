@@ -254,19 +254,19 @@ https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmykXAGRbRx5C7hrwLDXqNXUl4BXNmIVL8kYocwnRUlpGzGAy2qGzZK5Y&s=10" group-title="Sports",Star Sports 1
-http://147.93.153.98/OPPLEX/play.php?id=167575|User-Agent=RANAPK
+http://38.127.8.116/OPPLEX/play.php?id=167575|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrC7jI-CXGLhxrZEtgLHJySLVbCtRtvJn7NPoRmEG9Y48GzuwhpgGi06dY&s=10" group-title="Sports",Star Sports 2
-http://147.93.153.98/OPPLEX/play.php?id=167576|User-Agent=RANAPK
+http://38.127.8.116/OPPLEX/play.php?id=167576|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Y3IiDgrmihYYbDazg0z7l-s5N9U3CZ_qhhHto4kAzmpRMxyTfDHigtwe&s=10" group-title="Sports",Star Sports 3
-http://147.93.153.98/OPPLEX/play.php?id=167577|User-Agent=RANAPK
+http://38.127.8.116/OPPLEX/play.php?id=167577|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyKgvMQ04w9tyNwCQDKcj8NuWW0h8Syzn0EjQLix_JpPytFuBbyI7QWw&s=10" group-title="Sports",Star Sports Select 1
-http://147.93.153.98/OPPLEX/play.php?id=167578|User-Agent=RANAPK
+http://38.127.8.116/OPPLEX/play.php?id=167578|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIduSDxZ9L7PjDsZdYOSVhHktzOdNrOFZ1jO4SUHSurpFl22OPiSdj-MA&s=10" group-title="Sports",Star Sports Select 2
-http://147.93.153.98/OPPLEX/play.php?id=167579|User-Agent=RANAPK
+http://38.127.8.116/OPPLEX/play.php?id=167579|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW4FHLbqtzGWHh3LVumlV4yp3dgzNAPUnLdA&s" group-title="Sports",Star Sports 1 Hindi
-http://147.93.153.98/OPPLEX/play.php?id=167573|User-Agent=RANAPK
+http://38.127.8.116/OPPLEX/play.php?id=167573|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Star_Sports_2_Hindi.svg/revision/latest/scale-to-width-down/491?cb=20250329053253" group-title="Sports",Star Sports 2 Hindi
-http://147.93.153.98/OPPLEX/play.php?id=167576|User-Agent=RANAPK
+http://38.127.8.116/OPPLEX/play.php?id=167576|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCwn_URiXCx8gwhWhGdOr0nbYjObmZy6NNtmKnfA6FEsDZxREc7jDSmAs&s=10" group-title="Sports",Star Sports Tamil 1
 http://ptu.ridsys.in/riptv/live/stream20/index.m3u8
 
@@ -399,7 +399,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWgCb1vF5DFU5uoYtWz5qExgEv_jVHTI6i9P2aQYa7kUXvDvkJq5iqAFY&s=10" group-title="Music", MTV India
-http://147.93.153.98/OPPLEX/play.php?id=206054|User-Agent=RANAPK
+http://38.127.8.116/OPPLEX/play.php?id=206054|User-Agent=RANAPK
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThiqnCn-41fr-q8rxjNTmt4wuHWGyD1Gc9AxCsX4Pf13NVs2Fd7Z0xHko&s=10" group-title="Music", MTV Beats
@@ -421,11 +421,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS2XDT_1T9-PXZpyubsYQjq1jsw_8sOQVlIvyZZa_kxHhgdbKnziYA_ma8&s=10" group-title="Music", Zoom
-http://147.93.153.98/OPPLEX/play.php?id=66190|User-Agent=Mozila
+http://38.127.8.116/OPPLEX/play.php?id=66190|User-Agent=Mozila
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVjEwrw2vE1JlH7JuUn3IU1hQr6TbPq7br257ZodHHDzTqaIrUEmP9xFNG&s=10&s" group-title="Music", ShowBox
-http://147.93.153.98/OPPLEX/play.php?id=383529|User-Agent=Mozila
+http://38.127.8.116/OPPLEX/play.php?id=383529|User-Agent=Mozila
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0yj-dX7N8vzDkRu7YtUQB4d1tkCD-kOn2YOreP6Z_DQj_ZnEDoV2YNeA&s=10" group-title="Music", Music India
@@ -496,7 +496,7 @@ https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPsGz44zFqR2Dfqosa_HMzlo1lvMBfUHpip_qwWOseFjXJevFFAXc2ClIE&s=10" group-title="Music", Oscar Movies Bhojpuri
-http://147.93.153.98/OPPLEX/play.php?id=66185|User-Agent=RANAPK
+http://38.127.8.116/OPPLEX/play.php?id=66185|User-Agent=RANAPK
 
 
 
@@ -507,7 +507,7 @@ http://147.93.153.98/OPPLEX/play.php?id=66185|User-Agent=RANAPK
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3fCe3agPdOZ9Zo1HQIdgXu4oFiCIfhBKCazj12RQmKUI31Y_4DWIcpDI&s=10" group-title="Music", Tarang Music
-http://147.93.153.98/OPPLEX/play.php?id=381259|User-Agent=RANAPK
+http://38.127.8.116/OPPLEX/play.php?id=381259|User-Agent=RANAPK
 
 
 
@@ -524,11 +524,11 @@ https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_in
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMux9g315dmh1XCEBlzva9-ko8GDatJCBDsmkxg7tWgoMd22nJQVlToRmU&s=10" group-title="Music", Isaiaruvi
-http://147.93.153.98/OPPLEX/play.php?id=381008|User-Agent=RANAPK
+http://38.127.8.116/OPPLEX/play.php?id=381008|User-Agent=RANAPK
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT10LXIFVsXt2TGWdVZTsav8i_FUMxztlKt367hOlRKFKcemNsB5oOD9vn5&s=10" group-title="Music", Raj Musix Tamil
-http://147.93.153.98/OPPLEX/play.php?id=380988|User-Agent=RANAPK
+http://38.127.8.116/OPPLEX/play.php?id=380988|User-Agent=RANAPK
 
 
 
@@ -546,7 +546,7 @@ https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN
 
 
 #EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-06-17/250617737001.jpg" group-title="Music", Raj Musix Telugu
-http://147.93.153.98/OPPLEX/play.php?id=250853|User-Agent=RANAPK
+http://38.127.8.116/OPPLEX/play.php?id=250853|User-Agent=RANAPK
 
 
 
@@ -563,7 +563,7 @@ https://livestream.sunnxt.com/8034b7519d6a4ab8929aa4279fda1f29/UdayaMusicB_IN_in
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT10LXIFVsXt2TGWdVZTsav8i_FUMxztlKt367hOlRKFKcemNsB5oOD9vn5&s=10" group-title="Music", Raj Musix Kannada
-http://147.93.153.98/OPPLEX/play.php?id=381199|User-Agent=RANAPK
+http://38.127.8.116/OPPLEX/play.php?id=381199|User-Agent=RANAPK
 
 
 
